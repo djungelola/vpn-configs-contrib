@@ -1,2 +1,2 @@
 #! /bin/bash
-export OPENVPN_PASSWORD=cf32e5w
+export OPENVPN_PASSWORD=c3wrex2
